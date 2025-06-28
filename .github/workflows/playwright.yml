@@ -15,10 +15,20 @@ jobs:
         node-version: lts/*
     - name: Install dependencies
       run: npm ci
+    - name: Install cross-env
+      run: npm install --save-dev cross-env
+    - name: Install nodemailer
+      run: npm install nodemailer
+    - name: Install axios
+      run: npm install axios
     - name: Install Playwright Browsers
       run: npx playwright install --with-deps
     - name: Run Playwright tests
-      run: npx playwright test
+      run: npx playwright test NoteTaking.spec.js
+    - name: Send test report to Google Chat
+      run: node sendToChat.js
+    - name: Send test report to Gmail
+      run: node send-report.js
     - uses: actions/upload-artifact@v4
       if: ${{ !cancelled() }}
       with:
