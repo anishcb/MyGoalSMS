@@ -1,0 +1,23 @@
+{
+  "name": "mygoalsms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { "test:report": "npx playwright test --reporter=html && node send-report.js",
+    "test:env": "npx cross-env TEST_ENV=prod npx playwright test LoginPageTest.spec.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.4",
+    "cross-env": "^7.0.3"
+  },
+  
+  "dependencies": {
+    "axios": "^1.10.0",
+    "mysql2": "^3.14.1",
+    "nodemailer": "^7.0.3"
+  }
+}

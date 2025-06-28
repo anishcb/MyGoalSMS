@@ -1,0 +1,778 @@
+[2025-06-28T17:25:45.457Z] Navigating to login page on dev environment
+[2025-06-28T17:25:45.471Z] Navigating to login page on dev environment
+[2025-06-28T17:25:45.579Z] Navigating to login page on dev environment
+[2025-06-28T17:25:45.625Z] Navigating to login page on dev environment
+[2025-06-28T17:25:52.229Z] Successfully entered valid email id by admin
+[2025-06-28T17:25:52.327Z] Successfully entered valid password by admin
+[2025-06-28T17:25:52.361Z] Successfully clicked login button by admin
+[2025-06-28T17:25:53.410Z] Successfully clicked on student option
+[2025-06-28T17:25:53.786Z] Navigating to login page on dev environment
+[2025-06-28T17:25:54.108Z] Successfully entered valid email id by admin
+[2025-06-28T17:25:54.167Z] Successfully entered valid password by admin
+[2025-06-28T17:25:54.194Z] Successfully clicked login button by admin
+[2025-06-28T17:25:55.259Z] Successfully clicked on attendence option
+[2025-06-28T17:25:55.325Z] Verify the attendance option is clickable test passed
+[2025-06-28T17:25:55.561Z] Navigating to login page on dev environment
+[2025-06-28T17:25:56.031Z] Successfully entered valid email id by admin
+[2025-06-28T17:25:56.134Z] Successfully entered valid password by admin
+[2025-06-28T17:25:56.187Z] Successfully clicked login button by admin
+[2025-06-28T17:25:56.583Z] Successfully entered valid email id by admin
+[2025-06-28T17:25:56.661Z] Successfully entered valid password by admin
+[2025-06-28T17:25:56.714Z] Successfully clicked login button by admin
+[2025-06-28T17:25:57.436Z] Successfully clicked on subject option
+[2025-06-28T17:25:57.564Z] Verify the subject option is clickable test passed
+[2025-06-28T17:25:58.018Z] Successfully clicked on timetable option
+[2025-06-28T17:25:58.120Z] Verify the timetable option is clickable test passed
+[2025-06-28T17:25:58.475Z] Navigating to login page on dev environment
+[2025-06-28T17:25:58.744Z] Navigating to login page on dev environment
+[2025-06-28T17:25:59.105Z] Successfully entered valid email id by admin
+[2025-06-28T17:25:59.169Z] Successfully entered valid email id by admin
+[2025-06-28T17:25:59.222Z] Successfully entered valid password by admin
+[2025-06-28T17:25:59.290Z] Successfully clicked login button by admin
+[2025-06-28T17:25:59.292Z] Successfully entered valid password by admin
+[2025-06-28T17:25:59.360Z] Successfully clicked login button by admin
+[2025-06-28T17:26:00.543Z] Successfully clicked on notes option
+[2025-06-28T17:26:00.650Z] Successfully clicked on Syllabus option
+[2025-06-28T17:26:00.677Z] Verify the notes option is clickable test passed
+[2025-06-28T17:26:00.782Z] Verify the syllabus option is clickable test passed
+[2025-06-28T17:26:01.056Z] Navigating to login page on dev environment
+[2025-06-28T17:26:01.122Z] Navigating to login page on dev environment
+[2025-06-28T17:26:01.437Z] Successfully entered valid email id by admin
+[2025-06-28T17:26:01.474Z] Successfully entered valid email id by admin
+[2025-06-28T17:26:01.566Z] Successfully entered valid password by admin
+[2025-06-28T17:26:01.617Z] Successfully entered valid password by admin
+[2025-06-28T17:26:01.652Z] Successfully clicked login button by admin
+[2025-06-28T17:26:01.781Z] Successfully clicked login button by admin
+[2025-06-28T17:26:02.217Z] Successfully entered valid email id by admin
+[2025-06-28T17:26:02.403Z] Successfully entered valid password by admin
+[2025-06-28T17:26:02.468Z] Successfully clicked login button by admin
+[2025-06-28T17:26:03.474Z] Successfully clicked on marks option
+[2025-06-28T17:26:03.502Z] Successfully clicked on buses option
+[2025-06-28T17:26:03.582Z] Verify the buses option is clickable test passed
+[2025-06-28T17:26:03.633Z] Verify the marks option is clickable test passed
+[2025-06-28T17:26:03.961Z] Successfully clicked on notice option
+[2025-06-28T17:26:04.126Z] Verify the notice option is clickable test passed
+[2025-06-28T17:26:04.506Z] Navigating to login page on dev environment
+[2025-06-28T17:26:04.548Z] Navigating to login page on dev environment
+[2025-06-28T17:26:04.953Z] Successfully entered valid email id by admin
+[2025-06-28T17:26:05.051Z] Successfully entered valid email id by teacher
+[2025-06-28T17:26:05.052Z] Successfully entered valid password by admin
+[2025-06-28T17:26:05.110Z] Successfully clicked login button by admin
+[2025-06-28T17:26:05.246Z] Successfully entered valid password by teacher
+[2025-06-28T17:26:05.330Z] Successfully clicked login button by teacher
+[2025-06-28T17:26:05.731Z] Verify the login functionality for teacher test passed
+[2025-06-28T17:26:05.794Z] Verify the login functionality for admin test passed
+[2025-06-28T17:26:07.103Z] Navigating to login page on dev environment
+[2025-06-28T17:26:07.174Z] Navigating to login page on dev environment
+[2025-06-28T17:26:07.839Z] Successfully clicked view button
+[2025-06-28T17:26:07.939Z] Successfully entered valid email id by student
+[2025-06-28T17:26:08.221Z] Successfully entered valid password by student
+[2025-06-28T17:26:08.222Z] Password visibility toggle test passed
+[2025-06-28T17:26:08.411Z] Successfully clicked login button by student
+[2025-06-28T17:26:08.725Z] Successfully entered valid email id by admin
+[2025-06-28T17:26:08.937Z] Successfully entered valid password by admin
+[2025-06-28T17:26:09.028Z] Successfully clicked login button by admin
+[2025-06-28T17:26:09.854Z] Navigating to login page on dev environment
+[2025-06-28T17:26:10.480Z] Successfully entered valid email id by admin
+[2025-06-28T17:26:10.582Z] Successfully entered valid password by admin
+[2025-06-28T17:26:10.613Z] Successfully clicked login button by admin
+[2025-06-28T17:26:11.760Z] Successfully clicked on notice option
+[2025-06-28T17:26:11.999Z] Successfully entered notice title
+[2025-06-28T17:26:12.026Z] Successfully clicked on teacher option
+[2025-06-28T17:26:12.065Z] Successfully entered notice body
+[2025-06-28T17:26:12.133Z] Successfully uploaded the file for notice
+[2025-06-28T17:26:12.202Z] Verify the teacher option is clickable test passed
+[2025-06-28T17:26:12.298Z] Successfully clicked on post button
+[2025-06-28T17:28:44.880Z] Navigating to login page on dev environment
+[2025-06-28T17:28:44.924Z] Navigating to login page on dev environment
+[2025-06-28T17:28:45.033Z] Navigating to login page on dev environment
+[2025-06-28T17:28:45.032Z] Navigating to login page on dev environment
+[2025-06-28T17:28:51.444Z] Successfully entered valid email id by admin
+[2025-06-28T17:28:51.560Z] Successfully entered valid password by admin
+[2025-06-28T17:28:51.604Z] Successfully clicked login button by admin
+[2025-06-28T17:28:52.289Z] Successfully entered valid email id by admin
+[2025-06-28T17:28:52.521Z] Successfully entered valid password by admin
+[2025-06-28T17:28:52.593Z] Successfully clicked login button by admin
+[2025-06-28T17:28:52.867Z] Successfully clicked on student option
+[2025-06-28T17:28:53.414Z] Navigating to login page on dev environment
+[2025-06-28T17:28:53.925Z] Successfully entered valid email id by admin
+[2025-06-28T17:28:53.978Z] Successfully entered valid password by admin
+[2025-06-28T17:28:54.003Z] Successfully clicked login button by admin
+[2025-06-28T17:28:54.453Z] Successfully clicked on subject option
+[2025-06-28T17:28:54.533Z] Verify the subject option is clickable test passed
+[2025-06-28T17:28:54.950Z] Navigating to login page on dev environment
+[2025-06-28T17:28:55.088Z] Successfully clicked on attendence option
+[2025-06-28T17:28:55.173Z] Verify the attendance option is clickable test passed
+[2025-06-28T17:28:55.474Z] Navigating to login page on dev environment
+[2025-06-28T17:28:55.648Z] Successfully entered valid email id by admin
+[2025-06-28T17:28:55.721Z] Successfully entered valid password by admin
+[2025-06-28T17:28:55.755Z] Successfully clicked login button by admin
+[2025-06-28T17:28:55.911Z] Successfully entered valid email id by admin
+[2025-06-28T17:28:56.047Z] Successfully entered valid password by admin
+[2025-06-28T17:28:56.116Z] Successfully clicked login button by admin
+[2025-06-28T17:28:56.924Z] Successfully clicked on timetable option
+[2025-06-28T17:28:56.994Z] Successfully clicked on Syllabus option
+[2025-06-28T17:28:57.070Z] Verify the timetable option is clickable test passed
+[2025-06-28T17:28:57.113Z] Verify the syllabus option is clickable test passed
+[2025-06-28T17:28:57.518Z] Navigating to login page on dev environment
+[2025-06-28T17:28:57.537Z] Navigating to login page on dev environment
+[2025-06-28T17:28:58.050Z] Successfully entered valid email id by admin
+[2025-06-28T17:28:58.169Z] Successfully entered valid password by admin
+[2025-06-28T17:28:58.218Z] Successfully clicked login button by admin
+[2025-06-28T17:28:58.452Z] Successfully entered valid email id by admin
+[2025-06-28T17:28:58.505Z] Successfully entered valid email id by admin
+[2025-06-28T17:28:58.571Z] Successfully entered valid password by admin
+[2025-06-28T17:28:58.633Z] Successfully clicked login button by admin
+[2025-06-28T17:28:58.759Z] Successfully entered valid password by admin
+[2025-06-28T17:28:58.906Z] Successfully clicked login button by admin
+[2025-06-28T17:29:00.004Z] Successfully clicked on notice option
+[2025-06-28T17:29:00.269Z] Successfully clicked on marks option
+[2025-06-28T17:29:00.399Z] Verify the marks option is clickable test passed
+[2025-06-28T17:29:00.476Z] Successfully clicked on notes option
+[2025-06-28T17:29:00.480Z] Verify the notice option is clickable test passed
+[2025-06-28T17:29:00.638Z] Verify the notes option is clickable test passed
+[2025-06-28T17:29:00.990Z] Navigating to login page on dev environment
+[2025-06-28T17:29:01.167Z] Navigating to login page on dev environment
+[2025-06-28T17:29:01.389Z] Successfully entered valid email id by admin
+[2025-06-28T17:29:01.463Z] Successfully entered valid password by admin
+[2025-06-28T17:29:01.500Z] Successfully clicked login button by admin
+[2025-06-28T17:29:01.974Z] Successfully entered valid email id by admin
+[2025-06-28T17:29:02.054Z] Navigating to login page on dev environment
+[2025-06-28T17:29:02.126Z] Successfully entered valid password by admin
+[2025-06-28T17:29:02.183Z] Successfully clicked login button by admin
+[2025-06-28T17:29:02.281Z] Successfully entered valid email id by admin
+[2025-06-28T17:29:02.797Z] Successfully entered valid password by admin
+[2025-06-28T17:29:02.970Z] Successfully clicked login button by admin
+[2025-06-28T17:29:02.973Z] Verify the login functionality for admin test passed
+[2025-06-28T17:29:03.179Z] Successfully clicked on buses option
+[2025-06-28T17:29:03.342Z] Successfully entered valid email id by teacher
+[2025-06-28T17:29:03.358Z] Verify the buses option is clickable test passed
+[2025-06-28T17:29:03.579Z] Successfully entered valid password by teacher
+[2025-06-28T17:29:03.684Z] Successfully clicked login button by teacher
+[2025-06-28T17:29:04.332Z] Verify the login functionality for teacher test passed
+[2025-06-28T17:29:05.943Z] Successfully clicked on teacher option
+[2025-06-28T17:29:06.124Z] Verify the teacher option is clickable test passed
+[2025-06-28T17:29:06.274Z] Navigating to login page on dev environment
+[2025-06-28T17:29:06.409Z] Navigating to login page on dev environment
+[2025-06-28T17:29:06.979Z] Navigating to login page on dev environment
+[2025-06-28T17:29:07.302Z] Successfully clicked view button
+[2025-06-28T17:29:07.420Z] Password visibility toggle test passed
+[2025-06-28T17:29:07.887Z] Successfully entered valid email id by admin
+[2025-06-28T17:29:07.999Z] Successfully entered valid password by admin
+[2025-06-28T17:29:08.029Z] Successfully entered valid email id by student
+[2025-06-28T17:29:08.050Z] Successfully clicked login button by admin
+[2025-06-28T17:29:08.172Z] Successfully entered valid password by student
+[2025-06-28T17:29:08.222Z] Successfully clicked login button by student
+[2025-06-28T17:29:09.626Z] Successfully clicked on notice option
+[2025-06-28T17:29:09.822Z] Successfully entered notice title
+[2025-06-28T17:29:09.864Z] Successfully entered notice body
+[2025-06-28T17:29:09.902Z] Successfully uploaded the file for notice
+[2025-06-28T17:29:10.019Z] Successfully clicked on post button
+[2025-06-28T17:30:41.533Z] Navigating to login page on dev environment
+[2025-06-28T17:30:41.668Z] Navigating to login page on dev environment
+[2025-06-28T17:30:41.673Z] Navigating to login page on dev environment
+[2025-06-28T17:30:41.696Z] Navigating to login page on dev environment
+[2025-06-28T17:30:44.995Z] Successfully entered valid email id by admin
+[2025-06-28T17:30:45.081Z] Successfully entered valid password by admin
+[2025-06-28T17:30:45.112Z] Successfully clicked login button by admin
+[2025-06-28T17:30:46.144Z] Successfully clicked on teacher option
+[2025-06-28T17:30:46.230Z] Verify the teacher option is clickable test passed
+[2025-06-28T17:30:46.499Z] Navigating to login page on dev environment
+[2025-06-28T17:30:46.900Z] Successfully entered valid email id by admin
+[2025-06-28T17:30:46.971Z] Successfully entered valid password by admin
+[2025-06-28T17:30:46.994Z] Successfully clicked login button by admin
+[2025-06-28T17:30:47.556Z] Successfully clicked on attendence option
+[2025-06-28T17:30:47.634Z] Verify the attendance option is clickable test passed
+[2025-06-28T17:30:48.021Z] Navigating to login page on dev environment
+[2025-06-28T17:30:48.483Z] Successfully entered valid email id by admin
+[2025-06-28T17:30:48.573Z] Successfully entered valid email id by admin
+[2025-06-28T17:30:48.573Z] Successfully entered valid password by admin
+[2025-06-28T17:30:48.671Z] Successfully clicked login button by admin
+[2025-06-28T17:30:48.798Z] Successfully entered valid password by admin
+[2025-06-28T17:30:48.947Z] Successfully clicked login button by admin
+[2025-06-28T17:30:49.997Z] Successfully clicked on timetable option
+[2025-06-28T17:30:50.103Z] Verify the timetable option is clickable test passed
+[2025-06-28T17:30:50.565Z] Navigating to login page on dev environment
+[2025-06-28T17:30:50.728Z] Successfully clicked on student option
+[2025-06-28T17:30:51.085Z] Successfully entered valid email id by admin
+[2025-06-28T17:30:51.170Z] Successfully entered valid password by admin
+[2025-06-28T17:30:51.204Z] Successfully clicked login button by admin
+[2025-06-28T17:30:51.687Z] Navigating to login page on dev environment
+[2025-06-28T17:30:52.143Z] Successfully entered valid email id by admin
+[2025-06-28T17:30:52.267Z] Successfully entered valid password by admin
+[2025-06-28T17:30:52.314Z] Successfully clicked login button by admin
+[2025-06-28T17:30:52.430Z] Successfully clicked on Syllabus option
+[2025-06-28T17:30:52.617Z] Verify the syllabus option is clickable test passed
+[2025-06-28T17:30:52.892Z] Navigating to login page on dev environment
+[2025-06-28T17:30:53.287Z] Successfully entered valid email id by admin
+[2025-06-28T17:30:53.457Z] Successfully entered valid password by admin
+[2025-06-28T17:30:53.489Z] Successfully clicked login button by admin
+[2025-06-28T17:30:54.525Z] Successfully clicked on marks option
+[2025-06-28T17:30:54.599Z] Verify the marks option is clickable test passed
+[2025-06-28T17:30:54.815Z] Navigating to login page on dev environment
+[2025-06-28T17:30:55.197Z] Successfully entered valid email id by admin
+[2025-06-28T17:30:55.276Z] Successfully entered valid password by admin
+[2025-06-28T17:30:55.302Z] Successfully clicked login button by admin
+[2025-06-28T17:30:55.985Z] Successfully clicked on buses option
+[2025-06-28T17:30:56.074Z] Verify the buses option is clickable test passed
+[2025-06-28T17:30:56.458Z] Navigating to login page on dev environment
+[2025-06-28T17:30:56.837Z] Successfully entered valid email id by admin
+[2025-06-28T17:30:56.888Z] Successfully entered valid password by admin
+[2025-06-28T17:30:56.905Z] Successfully clicked login button by admin
+[2025-06-28T17:30:57.107Z] Verify the login functionality for admin test passed
+[2025-06-28T17:30:57.518Z] Successfully entered valid email id by admin
+[2025-06-28T17:30:57.759Z] Successfully entered valid password by admin
+[2025-06-28T17:30:57.930Z] Successfully clicked login button by admin
+[2025-06-28T17:30:58.466Z] Navigating to login page on dev environment
+[2025-06-28T17:30:59.115Z] Successfully clicked on subject option
+[2025-06-28T17:30:59.263Z] Successfully entered valid email id by teacher
+[2025-06-28T17:30:59.294Z] Verify the subject option is clickable test passed
+[2025-06-28T17:30:59.402Z] Successfully entered valid email id by admin
+[2025-06-28T17:30:59.531Z] Successfully entered valid password by teacher
+[2025-06-28T17:30:59.587Z] Successfully clicked login button by teacher
+[2025-06-28T17:30:59.858Z] Successfully entered valid password by admin
+[2025-06-28T17:30:59.962Z] Successfully clicked login button by admin
+[2025-06-28T17:31:00.340Z] Verify the login functionality for teacher test passed
+[2025-06-28T17:31:01.403Z] Successfully clicked on notice option
+[2025-06-28T17:31:01.599Z] Verify the notice option is clickable test passed
+[2025-06-28T17:31:01.889Z] Navigating to login page on dev environment
+[2025-06-28T17:31:02.509Z] Successfully entered valid email id by student
+[2025-06-28T17:31:02.607Z] Successfully entered valid password by student
+[2025-06-28T17:31:02.644Z] Successfully clicked login button by student
+[2025-06-28T17:31:04.073Z] Navigating to login page on dev environment
+[2025-06-28T17:31:04.680Z] Successfully clicked view button
+[2025-06-28T17:31:04.835Z] Password visibility toggle test passed
+[2025-06-28T17:31:05.554Z] Navigating to login page on dev environment
+[2025-06-28T17:31:06.066Z] Successfully entered valid email id by admin
+[2025-06-28T17:31:06.138Z] Successfully entered valid password by admin
+[2025-06-28T17:31:06.164Z] Successfully clicked login button by admin
+[2025-06-28T17:31:07.176Z] Successfully clicked on notice option
+[2025-06-28T17:31:07.330Z] Successfully entered notice title
+[2025-06-28T17:31:07.357Z] Successfully entered notice body
+[2025-06-28T17:31:07.400Z] Successfully uploaded the file for notice
+[2025-06-28T17:31:07.512Z] Successfully clicked on post button
+[2025-06-28T17:34:52.183Z] Navigating to login page on dev environment
+[2025-06-28T17:34:52.213Z] Navigating to login page on dev environment
+[2025-06-28T17:34:52.281Z] Navigating to login page on dev environment
+[2025-06-28T17:34:52.385Z] Navigating to login page on dev environment
+[2025-06-28T17:34:55.752Z] Successfully entered valid email id by admin
+[2025-06-28T17:34:55.840Z] Successfully entered valid password by admin
+[2025-06-28T17:34:55.874Z] Successfully clicked login button by admin
+[2025-06-28T17:34:56.923Z] Successfully clicked on subject option
+[2025-06-28T17:34:57.001Z] Verify the subject option is clickable test passed
+[2025-06-28T17:34:57.270Z] Navigating to login page on dev environment
+[2025-06-28T17:34:57.636Z] Successfully entered valid email id by admin
+[2025-06-28T17:34:57.720Z] Successfully entered valid password by admin
+[2025-06-28T17:34:57.758Z] Successfully clicked login button by admin
+[2025-06-28T17:34:58.050Z] Successfully entered valid email id by admin
+[2025-06-28T17:34:58.166Z] Successfully entered valid password by admin
+[2025-06-28T17:34:58.198Z] Successfully clicked login button by admin
+[2025-06-28T17:34:58.828Z] Successfully clicked on attendence option
+[2025-06-28T17:34:58.953Z] Verify the attendance option is clickable test passed
+[2025-06-28T17:34:59.318Z] Successfully clicked on notice option
+[2025-06-28T17:34:59.339Z] Navigating to login page on dev environment
+[2025-06-28T17:34:59.455Z] Verify the notice option is clickable test passed
+[2025-06-28T17:34:59.791Z] Successfully entered valid email id by admin
+[2025-06-28T17:34:59.853Z] Navigating to login page on dev environment
+[2025-06-28T17:34:59.905Z] Successfully entered valid password by admin
+[2025-06-28T17:34:59.949Z] Successfully clicked login button by admin
+[2025-06-28T17:35:00.436Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:00.498Z] Successfully entered valid password by admin
+[2025-06-28T17:35:00.526Z] Successfully clicked login button by admin
+[2025-06-28T17:35:01.023Z] Successfully clicked on timetable option
+[2025-06-28T17:35:01.104Z] Verify the timetable option is clickable test passed
+[2025-06-28T17:35:01.371Z] Navigating to login page on dev environment
+[2025-06-28T17:35:01.660Z] Successfully clicked on Syllabus option
+[2025-06-28T17:35:01.758Z] Verify the syllabus option is clickable test passed
+[2025-06-28T17:35:02.041Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:02.123Z] Successfully entered valid password by admin
+[2025-06-28T17:35:02.159Z] Successfully clicked login button by admin
+[2025-06-28T17:35:02.192Z] Navigating to login page on dev environment
+[2025-06-28T17:35:02.715Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:02.792Z] Successfully entered valid password by admin
+[2025-06-28T17:35:02.855Z] Successfully clicked login button by admin
+[2025-06-28T17:35:03.100Z] Successfully clicked on notes option
+[2025-06-28T17:35:03.248Z] Verify the notes option is clickable test passed
+[2025-06-28T17:35:03.707Z] Navigating to login page on dev environment
+[2025-06-28T17:35:04.154Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:04.240Z] Successfully clicked on marks option
+[2025-06-28T17:35:04.307Z] Successfully entered valid password by admin
+[2025-06-28T17:35:04.417Z] Verify the marks option is clickable test passed
+[2025-06-28T17:35:04.455Z] Successfully clicked login button by admin
+[2025-06-28T17:35:04.849Z] Navigating to login page on dev environment
+[2025-06-28T17:35:05.355Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:05.485Z] Successfully entered valid password by admin
+[2025-06-28T17:35:05.612Z] Successfully clicked login button by admin
+[2025-06-28T17:35:05.718Z] Successfully clicked on buses option
+[2025-06-28T17:35:05.852Z] Verify the buses option is clickable test passed
+[2025-06-28T17:35:06.318Z] Verify the login functionality for admin test passed
+[2025-06-28T17:35:06.996Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:07.121Z] Successfully entered valid password by admin
+[2025-06-28T17:35:07.162Z] Successfully clicked login button by admin
+[2025-06-28T17:35:08.204Z] Navigating to login page on dev environment
+[2025-06-28T17:35:08.486Z] Navigating to login page on dev environment
+[2025-06-28T17:35:08.831Z] Successfully entered valid email id by teacher
+[2025-06-28T17:35:08.988Z] Successfully entered valid password by teacher
+[2025-06-28T17:35:09.029Z] Successfully clicked login button by teacher
+[2025-06-28T17:35:09.036Z] Successfully clicked on teacher option
+[2025-06-28T17:35:09.299Z] Verify the teacher option is clickable test passed
+[2025-06-28T17:35:09.402Z] Successfully entered valid email id by student
+[2025-06-28T17:35:09.523Z] Successfully entered valid password by student
+[2025-06-28T17:35:09.573Z] Successfully clicked login button by student
+[2025-06-28T17:35:09.772Z] Verify the login functionality for teacher test passed
+[2025-06-28T17:35:10.156Z] Navigating to login page on dev environment
+[2025-06-28T17:35:11.331Z] Successfully clicked view button
+[2025-06-28T17:35:11.459Z] Password visibility toggle test passed
+[2025-06-28T17:35:11.823Z] Navigating to login page on dev environment
+[2025-06-28T17:35:12.298Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:12.382Z] Successfully entered valid password by admin
+[2025-06-28T17:35:12.431Z] Successfully clicked login button by admin
+[2025-06-28T17:35:12.743Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:12.981Z] Successfully entered valid password by admin
+[2025-06-28T17:35:13.061Z] Successfully clicked login button by admin
+[2025-06-28T17:35:13.726Z] Successfully clicked on notice option
+[2025-06-28T17:35:13.915Z] Successfully entered notice title
+[2025-06-28T17:35:13.955Z] Successfully entered notice body
+[2025-06-28T17:35:14.013Z] Successfully uploaded the file for notice
+[2025-06-28T17:35:14.226Z] Successfully clicked on post button
+[2025-06-28T17:35:14.724Z] Successfully clicked on student option
+[2025-06-28T17:35:36.704Z] Navigating to login page on dev environment
+[2025-06-28T17:35:36.825Z] Navigating to login page on dev environment
+[2025-06-28T17:35:36.862Z] Navigating to login page on dev environment
+[2025-06-28T17:35:37.028Z] Navigating to login page on dev environment
+[2025-06-28T17:35:39.144Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:39.235Z] Successfully entered valid password by admin
+[2025-06-28T17:35:39.265Z] Successfully clicked login button by admin
+[2025-06-28T17:35:40.319Z] Successfully clicked on notice option
+[2025-06-28T17:35:40.390Z] Verify the notice option is clickable test passed
+[2025-06-28T17:35:40.666Z] Navigating to login page on dev environment
+[2025-06-28T17:35:41.156Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:41.235Z] Successfully entered valid password by admin
+[2025-06-28T17:35:41.260Z] Successfully clicked login button by admin
+[2025-06-28T17:35:42.967Z] Successfully clicked on attendence option
+[2025-06-28T17:35:43.042Z] Verify the attendance option is clickable test passed
+[2025-06-28T17:35:43.357Z] Navigating to login page on dev environment
+[2025-06-28T17:35:43.742Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:43.828Z] Successfully entered valid password by admin
+[2025-06-28T17:35:43.862Z] Successfully clicked login button by admin
+[2025-06-28T17:35:44.001Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:44.283Z] Successfully entered valid password by admin
+[2025-06-28T17:35:44.379Z] Successfully clicked login button by admin
+[2025-06-28T17:35:45.279Z] Successfully clicked on timetable option
+[2025-06-28T17:35:45.481Z] Verify the timetable option is clickable test passed
+[2025-06-28T17:35:45.716Z] Successfully clicked on teacher option
+[2025-06-28T17:35:45.861Z] Verify the teacher option is clickable test passed
+[2025-06-28T17:35:46.026Z] Navigating to login page on dev environment
+[2025-06-28T17:35:46.680Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:46.775Z] Successfully entered valid password by admin
+[2025-06-28T17:35:46.814Z] Successfully clicked login button by admin
+[2025-06-28T17:35:47.361Z] Navigating to login page on dev environment
+[2025-06-28T17:35:48.102Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:48.102Z] Successfully clicked on Syllabus option
+[2025-06-28T17:35:48.223Z] Successfully entered valid password by admin
+[2025-06-28T17:35:48.277Z] Successfully clicked login button by admin
+[2025-06-28T17:35:48.280Z] Verify the syllabus option is clickable test passed
+[2025-06-28T17:35:48.797Z] Navigating to login page on dev environment
+[2025-06-28T17:35:49.424Z] Successfully clicked on notes option
+[2025-06-28T17:35:49.453Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:49.599Z] Successfully entered valid password by admin
+[2025-06-28T17:35:49.635Z] Verify the notes option is clickable test passed
+[2025-06-28T17:35:49.719Z] Successfully clicked login button by admin
+[2025-06-28T17:35:50.297Z] Navigating to login page on dev environment
+[2025-06-28T17:35:50.873Z] Successfully clicked on marks option
+[2025-06-28T17:35:50.993Z] Verify the marks option is clickable test passed
+[2025-06-28T17:35:51.037Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:51.199Z] Successfully entered valid password by admin
+[2025-06-28T17:35:51.249Z] Successfully clicked login button by admin
+[2025-06-28T17:35:51.547Z] Navigating to login page on dev environment
+[2025-06-28T17:35:52.075Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:52.279Z] Successfully entered valid password by admin
+[2025-06-28T17:35:52.338Z] Successfully clicked login button by admin
+[2025-06-28T17:35:52.658Z] Successfully clicked on buses option
+[2025-06-28T17:35:52.860Z] Verify the buses option is clickable test passed
+[2025-06-28T17:35:53.089Z] Verify the login functionality for admin test passed
+[2025-06-28T17:35:53.442Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:53.685Z] Successfully entered valid password by admin
+[2025-06-28T17:35:53.783Z] Successfully clicked login button by admin
+[2025-06-28T17:35:54.285Z] Navigating to login page on dev environment
+[2025-06-28T17:35:54.507Z] Navigating to login page on dev environment
+[2025-06-28T17:35:55.032Z] Successfully entered valid email id by teacher
+[2025-06-28T17:35:55.188Z] Successfully entered valid password by teacher
+[2025-06-28T17:35:55.195Z] Successfully clicked on student option
+[2025-06-28T17:35:55.283Z] Successfully clicked login button by teacher
+[2025-06-28T17:35:55.732Z] Successfully entered valid email id by student
+[2025-06-28T17:35:55.858Z] Successfully entered valid password by student
+[2025-06-28T17:35:56.082Z] Successfully clicked login button by student
+[2025-06-28T17:35:56.095Z] Verify the login functionality for teacher test passed
+[2025-06-28T17:35:58.026Z] Navigating to login page on dev environment
+[2025-06-28T17:35:58.579Z] Successfully clicked view button
+[2025-06-28T17:35:58.678Z] Password visibility toggle test passed
+[2025-06-28T17:35:59.299Z] Navigating to login page on dev environment
+[2025-06-28T17:35:59.715Z] Successfully entered valid email id by admin
+[2025-06-28T17:35:59.791Z] Successfully entered valid password by admin
+[2025-06-28T17:35:59.820Z] Successfully clicked login button by admin
+[2025-06-28T17:36:00.581Z] Successfully clicked on notice option
+[2025-06-28T17:36:00.749Z] Successfully entered notice title
+[2025-06-28T17:36:00.778Z] Successfully entered notice body
+[2025-06-28T17:36:00.804Z] Successfully uploaded the file for notice
+[2025-06-28T17:36:00.924Z] Successfully clicked on post button
+[2025-06-28T17:36:01.476Z] Successfully entered valid email id by admin
+[2025-06-28T17:36:01.621Z] Successfully entered valid password by admin
+[2025-06-28T17:36:01.679Z] Successfully clicked login button by admin
+[2025-06-28T17:36:02.864Z] Successfully clicked on subject option
+[2025-06-28T17:36:02.980Z] Verify the subject option is clickable test passed
+[2025-06-28T17:40:52.353Z] Navigating to login page on dev environment
+[2025-06-28T17:40:52.386Z] Navigating to login page on dev environment
+[2025-06-28T17:40:52.496Z] Navigating to login page on dev environment
+[2025-06-28T17:40:52.609Z] Navigating to login page on dev environment
+[2025-06-28T17:41:00.166Z] Successfully entered valid email id by admin
+[2025-06-28T17:41:00.313Z] Successfully entered valid password by admin
+[2025-06-28T17:41:00.356Z] Successfully clicked login button by admin
+[2025-06-28T17:41:00.913Z] Successfully entered valid email id by admin
+[2025-06-28T17:41:01.105Z] Successfully entered valid password by admin
+[2025-06-28T17:41:01.165Z] Successfully clicked login button by admin
+[2025-06-28T17:41:01.511Z] Successfully clicked on notice option
+[2025-06-28T17:41:01.665Z] Verify the notice option is clickable test passed
+[2025-06-28T17:41:02.129Z] Navigating to login page on dev environment
+[2025-06-28T17:41:02.150Z] Successfully entered valid email id by admin
+[2025-06-28T17:41:02.318Z] Successfully entered valid password by admin
+[2025-06-28T17:41:02.375Z] Successfully clicked login button by admin
+[2025-06-28T17:41:02.716Z] Successfully entered valid email id by admin
+[2025-06-28T17:41:02.873Z] Successfully entered valid password by admin
+[2025-06-28T17:41:02.928Z] Successfully clicked login button by admin
+[2025-06-28T17:41:03.584Z] Successfully clicked on subject option
+[2025-06-28T17:41:03.714Z] Verify the subject option is clickable test passed
+[2025-06-28T17:41:04.036Z] Successfully clicked on attendence option
+[2025-06-28T17:41:04.110Z] Verify the attendance option is clickable test passed
+[2025-06-28T17:41:04.399Z] Navigating to login page on dev environment
+[2025-06-28T17:41:04.824Z] Successfully entered valid email id by admin
+[2025-06-28T17:41:04.901Z] Successfully entered valid password by admin
+[2025-06-28T17:41:04.936Z] Successfully clicked login button by admin
+[2025-06-28T17:41:05.107Z] Navigating to login page on dev environment
+[2025-06-28T17:41:05.593Z] Successfully entered valid email id by admin
+[2025-06-28T17:41:05.668Z] Successfully entered valid password by admin
+[2025-06-28T17:41:05.698Z] Successfully clicked login button by admin
+[2025-06-28T17:41:06.117Z] Successfully clicked on timetable option
+[2025-06-28T17:41:06.205Z] Verify the timetable option is clickable test passed
+[2025-06-28T17:41:06.726Z] Successfully clicked on Syllabus option
+[2025-06-28T17:41:06.744Z] Navigating to login page on dev environment
+[2025-06-28T17:41:06.855Z] Verify the syllabus option is clickable test passed
+[2025-06-28T17:41:07.295Z] Navigating to login page on dev environment
+[2025-06-28T17:41:07.339Z] Successfully entered valid email id by admin
+[2025-06-28T17:41:07.486Z] Successfully entered valid password by admin
+[2025-06-28T17:41:07.518Z] Successfully clicked login button by admin
+[2025-06-28T17:41:08.338Z] Successfully entered valid email id by admin
+[2025-06-28T17:41:08.554Z] Successfully entered valid password by admin
+[2025-06-28T17:41:08.637Z] Successfully clicked login button by admin
+[2025-06-28T17:41:08.818Z] Successfully clicked on notes option
+[2025-06-28T17:41:08.958Z] Verify the notes option is clickable test passed
+[2025-06-28T17:41:09.239Z] Successfully entered valid email id by admin
+[2025-06-28T17:41:09.451Z] Successfully entered valid password by admin
+[2025-06-28T17:41:09.571Z] Successfully clicked login button by admin
+[2025-06-28T17:41:10.253Z] Navigating to login page on dev environment
+[2025-06-28T17:41:10.548Z] Successfully clicked on student option
+[2025-06-28T17:41:11.168Z] Successfully entered valid email id by admin
+[2025-06-28T17:41:11.308Z] Successfully entered valid password by admin
+[2025-06-28T17:41:11.373Z] Successfully clicked login button by admin
+[2025-06-28T17:41:11.452Z] Successfully clicked on marks option
+[2025-06-28T17:41:11.587Z] Verify the marks option is clickable test passed
+[2025-06-28T17:41:12.398Z] Navigating to login page on dev environment
+[2025-06-28T17:41:13.103Z] Successfully clicked on buses option
+[2025-06-28T17:41:13.285Z] Successfully entered valid email id by admin
+[2025-06-28T17:41:13.312Z] Verify the buses option is clickable test passed
+[2025-06-28T17:41:13.488Z] Successfully entered valid password by admin
+[2025-06-28T17:41:13.594Z] Successfully clicked login button by admin
+[2025-06-28T17:41:14.258Z] Verify the login functionality for admin test passed
+[2025-06-28T17:41:14.389Z] Navigating to login page on dev environment
+[2025-06-28T17:41:15.165Z] Successfully entered valid email id by teacher
+[2025-06-28T17:41:15.311Z] Successfully entered valid password by teacher
+[2025-06-28T17:41:15.388Z] Successfully clicked login button by teacher
+[2025-06-28T17:41:15.428Z] Navigating to login page on dev environment
+[2025-06-28T17:41:15.960Z] Verify the login functionality for teacher test passed
+[2025-06-28T17:41:16.201Z] Successfully entered valid email id by student
+[2025-06-28T17:41:16.317Z] Successfully entered valid password by student
+[2025-06-28T17:41:16.512Z] Successfully clicked login button by student
+[2025-06-28T17:41:16.573Z] Navigating to login page on dev environment
+[2025-06-28T17:41:17.519Z] Navigating to login page on dev environment
+[2025-06-28T17:41:18.045Z] Successfully entered valid email id by admin
+[2025-06-28T17:41:18.193Z] Successfully entered valid password by admin
+[2025-06-28T17:41:18.278Z] Successfully clicked login button by admin
+[2025-06-28T17:41:18.348Z] Successfully clicked view button
+[2025-06-28T17:41:18.502Z] Password visibility toggle test passed
+[2025-06-28T17:41:19.468Z] Successfully clicked on notice option
+[2025-06-28T17:41:19.623Z] Successfully entered notice title
+[2025-06-28T17:41:19.652Z] Successfully entered notice body
+[2025-06-28T17:41:19.684Z] Successfully uploaded the file for notice
+[2025-06-28T17:41:19.752Z] Successfully clicked on post button
+[2025-06-28T17:48:30.168Z] Navigating to login page on dev environment
+[2025-06-28T17:48:30.313Z] Navigating to login page on dev environment
+[2025-06-28T17:48:30.394Z] Navigating to login page on dev environment
+[2025-06-28T17:48:30.466Z] Navigating to login page on dev environment
+[2025-06-28T17:48:35.320Z] Successfully entered valid email id by admin
+[2025-06-28T17:48:35.405Z] Successfully entered valid password by admin
+[2025-06-28T17:48:35.436Z] Successfully clicked login button by admin
+[2025-06-28T17:48:36.475Z] Successfully clicked on subject option
+[2025-06-28T17:48:36.560Z] Verify the subject option is clickable test passed
+[2025-06-28T17:48:36.669Z] Successfully entered valid email id by admin
+[2025-06-28T17:48:36.804Z] Successfully entered valid password by admin
+[2025-06-28T17:48:36.845Z] Successfully clicked login button by admin
+[2025-06-28T17:48:36.957Z] Navigating to login page on dev environment
+[2025-06-28T17:48:37.402Z] Successfully entered valid email id by admin
+[2025-06-28T17:48:37.478Z] Successfully entered valid password by admin
+[2025-06-28T17:48:37.519Z] Successfully clicked login button by admin
+[2025-06-28T17:48:38.043Z] Successfully clicked on teacher option
+[2025-06-28T17:48:38.148Z] Verify the teacher option is clickable test passed
+[2025-06-28T17:48:38.476Z] Navigating to login page on dev environment
+[2025-06-28T17:48:39.026Z] Successfully entered valid email id by admin
+[2025-06-28T17:48:39.030Z] Successfully clicked on attendence option
+[2025-06-28T17:48:39.103Z] Successfully entered valid password by admin
+[2025-06-28T17:48:39.142Z] Verify the attendance option is clickable test passed
+[2025-06-28T17:48:39.161Z] Successfully clicked login button by admin
+[2025-06-28T17:48:39.540Z] Navigating to login page on dev environment
+[2025-06-28T17:48:40.259Z] Successfully entered valid email id by admin
+[2025-06-28T17:48:40.480Z] Successfully entered valid password by admin
+[2025-06-28T17:48:40.574Z] Successfully clicked login button by admin
+[2025-06-28T17:48:40.651Z] Successfully clicked on timetable option
+[2025-06-28T17:48:40.798Z] Verify the timetable option is clickable test passed
+[2025-06-28T17:48:40.945Z] Successfully entered valid email id by admin
+[2025-06-28T17:48:41.105Z] Successfully entered valid password by admin
+[2025-06-28T17:48:41.151Z] Successfully clicked login button by admin
+[2025-06-28T17:48:41.541Z] Navigating to login page on dev environment
+[2025-06-28T17:48:42.132Z] Successfully entered valid email id by admin
+[2025-06-28T17:48:42.209Z] Successfully clicked on student option
+[2025-06-28T17:48:42.283Z] Successfully entered valid password by admin
+[2025-06-28T17:48:42.365Z] Successfully clicked login button by admin
+[2025-06-28T17:48:43.341Z] Successfully clicked on Syllabus option
+[2025-06-28T17:48:43.426Z] Verify the syllabus option is clickable test passed
+[2025-06-28T17:48:43.626Z] Navigating to login page on dev environment
+[2025-06-28T17:48:43.842Z] Navigating to login page on dev environment
+[2025-06-28T17:48:44.196Z] Successfully clicked on notes option
+[2025-06-28T17:48:44.321Z] Verify the notes option is clickable test passed
+[2025-06-28T17:48:44.462Z] Successfully entered valid email id by admin
+[2025-06-28T17:48:44.512Z] Successfully entered valid email id by admin
+[2025-06-28T17:48:44.623Z] Successfully entered valid password by admin
+[2025-06-28T17:48:44.684Z] Successfully entered valid password by admin
+[2025-06-28T17:48:44.688Z] Successfully clicked login button by admin
+[2025-06-28T17:48:44.738Z] Successfully clicked login button by admin
+[2025-06-28T17:48:45.290Z] Navigating to login page on dev environment
+[2025-06-28T17:48:46.119Z] Successfully clicked on marks option
+[2025-06-28T17:48:46.276Z] Successfully clicked on buses option
+[2025-06-28T17:48:46.295Z] Verify the marks option is clickable test passed
+[2025-06-28T17:48:46.405Z] Verify the buses option is clickable test passed
+[2025-06-28T17:48:46.595Z] Successfully entered valid email id by admin
+[2025-06-28T17:48:46.719Z] Successfully entered valid password by admin
+[2025-06-28T17:48:46.783Z] Successfully clicked login button by admin
+[2025-06-28T17:48:46.840Z] Navigating to login page on dev environment
+[2025-06-28T17:48:47.264Z] Navigating to login page on dev environment
+[2025-06-28T17:48:47.357Z] Verify the login functionality for admin test passed
+[2025-06-28T17:48:47.597Z] Successfully entered valid email id by teacher
+[2025-06-28T17:48:47.699Z] Successfully entered valid password by teacher
+[2025-06-28T17:48:47.744Z] Successfully clicked login button by teacher
+[2025-06-28T17:48:48.085Z] Successfully entered valid email id by student
+[2025-06-28T17:48:48.258Z] Successfully entered valid password by student
+[2025-06-28T17:48:48.304Z] Verify the login functionality for teacher test passed
+[2025-06-28T17:48:48.323Z] Successfully clicked login button by student
+[2025-06-28T17:48:49.297Z] Navigating to login page on dev environment
+[2025-06-28T17:48:50.188Z] Successfully clicked view button
+[2025-06-28T17:48:50.332Z] Password visibility toggle test passed
+[2025-06-28T17:48:50.419Z] Successfully entered valid email id by admin
+[2025-06-28T17:48:50.640Z] Successfully entered valid password by admin
+[2025-06-28T17:48:50.757Z] Successfully clicked login button by admin
+[2025-06-28T17:48:51.054Z] Navigating to login page on dev environment
+[2025-06-28T17:48:51.678Z] Successfully entered valid email id by admin
+[2025-06-28T17:48:51.778Z] Successfully entered valid password by admin
+[2025-06-28T17:48:51.830Z] Successfully clicked login button by admin
+[2025-06-28T17:48:52.299Z] Successfully clicked on notice option
+[2025-06-28T17:48:52.565Z] Verify the notice option is clickable test passed
+[2025-06-28T17:48:53.350Z] Successfully clicked on notice option
+[2025-06-28T17:48:53.532Z] Successfully entered notice title
+[2025-06-28T17:48:53.622Z] Successfully entered notice body
+[2025-06-28T17:48:53.672Z] Successfully uploaded the file for notice
+[2025-06-28T17:48:53.806Z] Successfully clicked on post button
+[2025-06-28T18:01:30.739Z] Navigating to login page on dev environment
+[2025-06-28T18:01:30.755Z] Navigating to login page on dev environment
+[2025-06-28T18:01:30.834Z] Navigating to login page on dev environment
+[2025-06-28T18:01:30.853Z] Navigating to login page on dev environment
+[2025-06-28T18:01:38.452Z] Successfully entered valid email id by admin
+[2025-06-28T18:01:38.548Z] Successfully entered valid password by admin
+[2025-06-28T18:01:38.572Z] Successfully clicked login button by admin
+[2025-06-28T18:01:39.214Z] Successfully clicked on teacher option
+[2025-06-28T18:01:39.293Z] Verify the teacher option is clickable test passed
+[2025-06-28T18:01:39.761Z] Navigating to login page on dev environment
+[2025-06-28T18:01:40.087Z] Successfully entered valid email id by admin
+[2025-06-28T18:01:40.112Z] Successfully entered valid email id by admin
+[2025-06-28T18:01:40.218Z] Successfully entered valid password by admin
+[2025-06-28T18:01:40.257Z] Successfully entered valid password by admin
+[2025-06-28T18:01:40.272Z] Successfully clicked login button by admin
+[2025-06-28T18:01:40.332Z] Successfully clicked login button by admin
+[2025-06-28T18:01:41.157Z] Successfully entered valid email id by admin
+[2025-06-28T18:01:41.401Z] Successfully entered valid password by admin
+[2025-06-28T18:01:41.517Z] Successfully clicked login button by admin
+[2025-06-28T18:01:41.794Z] Successfully clicked on attendence option
+[2025-06-28T18:01:41.925Z] Verify the attendance option is clickable test passed
+[2025-06-28T18:01:42.042Z] Successfully clicked on notice option
+[2025-06-28T18:01:42.146Z] Verify the notice option is clickable test passed
+[2025-06-28T18:01:42.699Z] Navigating to login page on dev environment
+[2025-06-28T18:01:43.061Z] Successfully clicked on subject option
+[2025-06-28T18:01:43.161Z] Successfully entered valid email id by admin
+[2025-06-28T18:01:43.178Z] Verify the subject option is clickable test passed
+[2025-06-28T18:01:43.327Z] Successfully entered valid password by admin
+[2025-06-28T18:01:43.387Z] Successfully clicked login button by admin
+[2025-06-28T18:01:43.622Z] Navigating to login page on dev environment
+[2025-06-28T18:01:44.022Z] Successfully entered valid email id by admin
+[2025-06-28T18:01:44.095Z] Successfully entered valid password by admin
+[2025-06-28T18:01:44.143Z] Successfully clicked login button by admin
+[2025-06-28T18:01:44.604Z] Successfully clicked on timetable option
+[2025-06-28T18:01:44.701Z] Verify the timetable option is clickable test passed
+[2025-06-28T18:01:44.982Z] Navigating to login page on dev environment
+[2025-06-28T18:01:45.122Z] Navigating to login page on dev environment
+[2025-06-28T18:01:45.390Z] Successfully entered valid email id by admin
+[2025-06-28T18:01:45.534Z] Successfully entered valid password by admin
+[2025-06-28T18:01:45.663Z] Successfully clicked on Syllabus option
+[2025-06-28T18:01:45.672Z] Successfully clicked login button by admin
+[2025-06-28T18:01:45.803Z] Verify the syllabus option is clickable test passed
+[2025-06-28T18:01:46.090Z] Successfully entered valid email id by admin
+[2025-06-28T18:01:46.212Z] Successfully entered valid password by admin
+[2025-06-28T18:01:46.268Z] Successfully clicked login button by admin
+[2025-06-28T18:01:46.433Z] Navigating to login page on dev environment
+[2025-06-28T18:01:46.739Z] Successfully clicked on notes option
+[2025-06-28T18:01:46.857Z] Verify the notes option is clickable test passed
+[2025-06-28T18:01:46.998Z] Successfully entered valid email id by admin
+[2025-06-28T18:01:47.187Z] Successfully entered valid password by admin
+[2025-06-28T18:01:47.295Z] Successfully clicked login button by admin
+[2025-06-28T18:01:47.517Z] Successfully clicked on marks option
+[2025-06-28T18:01:47.663Z] Verify the marks option is clickable test passed
+[2025-06-28T18:01:47.871Z] Navigating to login page on dev environment
+[2025-06-28T18:01:48.124Z] Navigating to login page on dev environment
+[2025-06-28T18:01:48.332Z] Successfully entered valid email id by admin
+[2025-06-28T18:01:48.477Z] Successfully entered valid password by admin
+[2025-06-28T18:01:48.549Z] Successfully clicked login button by admin
+[2025-06-28T18:01:48.602Z] Successfully clicked on buses option
+[2025-06-28T18:01:48.698Z] Verify the buses option is clickable test passed
+[2025-06-28T18:01:48.890Z] Successfully entered valid email id by teacher
+[2025-06-28T18:01:49.123Z] Verify the login functionality for admin test passed
+[2025-06-28T18:01:49.126Z] Successfully entered valid password by teacher
+[2025-06-28T18:01:49.307Z] Successfully clicked login button by teacher
+[2025-06-28T18:01:49.872Z] Navigating to login page on dev environment
+[2025-06-28T18:01:49.891Z] Verify the login functionality for teacher test passed
+[2025-06-28T18:01:50.574Z] Navigating to login page on dev environment
+[2025-06-28T18:01:50.762Z] Successfully entered valid email id by student
+[2025-06-28T18:01:50.922Z] Successfully entered valid password by student
+[2025-06-28T18:01:50.985Z] Successfully clicked login button by student
+[2025-06-28T18:01:51.527Z] Successfully clicked view button
+[2025-06-28T18:01:51.833Z] Password visibility toggle test passed
+[2025-06-28T18:01:52.044Z] Navigating to login page on dev environment
+[2025-06-28T18:01:52.636Z] Successfully entered valid email id by admin
+[2025-06-28T18:01:52.731Z] Successfully entered valid password by admin
+[2025-06-28T18:01:52.769Z] Successfully clicked login button by admin
+[2025-06-28T18:01:53.639Z] Successfully entered valid email id by admin
+[2025-06-28T18:01:53.849Z] Successfully entered valid password by admin
+[2025-06-28T18:01:53.920Z] Successfully clicked login button by admin
+[2025-06-28T18:01:54.136Z] Successfully clicked on notice option
+[2025-06-28T18:01:54.383Z] Successfully entered notice title
+[2025-06-28T18:01:54.486Z] Successfully entered notice body
+[2025-06-28T18:01:54.535Z] Successfully uploaded the file for notice
+[2025-06-28T18:01:54.666Z] Successfully clicked on post button
+[2025-06-28T18:01:55.266Z] Successfully clicked on student option
+[2025-06-28T18:04:52.946Z] Navigating to login page on prod environment
+[2025-06-28T18:04:53.003Z] Navigating to login page on prod environment
+[2025-06-28T18:04:53.014Z] Navigating to login page on prod environment
+[2025-06-28T18:04:53.037Z] Navigating to login page on prod environment
+[2025-06-28T18:04:58.758Z] Successfully entered valid email id by student
+[2025-06-28T18:04:58.859Z] Successfully entered valid password by student
+[2025-06-28T18:04:58.889Z] Successfully clicked login button by student
+[2025-06-28T18:04:59.738Z] Successfully entered valid email id by teacher
+[2025-06-28T18:04:59.876Z] Successfully entered valid password by teacher
+[2025-06-28T18:04:59.910Z] Successfully clicked login button by teacher
+[2025-06-28T18:05:00.182Z] Verify the login functionality for teacher test passed
+[2025-06-28T18:05:06.006Z] Successfully clicked view button
+[2025-06-28T18:05:06.110Z] Password visibility toggle test passed
+[2025-06-28T18:05:06.728Z] Successfully entered valid email id by admin
+[2025-06-28T18:05:06.841Z] Successfully entered valid password by admin
+[2025-06-28T18:05:06.881Z] Successfully clicked login button by admin
+[2025-06-28T18:05:07.154Z] Verify the login functionality for admin test passed
+[2025-06-28T18:15:17.433Z] Navigating to login page on dev environment
+[2025-06-28T18:15:17.576Z] Navigating to login page on dev environment
+[2025-06-28T18:15:17.595Z] Navigating to login page on dev environment
+[2025-06-28T18:15:17.715Z] Navigating to login page on dev environment
+[2025-06-28T18:15:28.431Z] Successfully entered valid email id by admin
+[2025-06-28T18:15:28.544Z] Successfully entered valid password by admin
+[2025-06-28T18:15:28.577Z] Successfully clicked login button by admin
+[2025-06-28T18:15:29.606Z] Successfully clicked on student option
+[2025-06-28T18:15:30.078Z] Navigating to login page on dev environment
+[2025-06-28T18:15:30.488Z] Successfully entered valid email id by admin
+[2025-06-28T18:15:30.551Z] Successfully entered valid password by admin
+[2025-06-28T18:15:30.580Z] Successfully clicked login button by admin
+[2025-06-28T18:15:31.318Z] Successfully entered valid email id by admin
+[2025-06-28T18:15:31.511Z] Successfully entered valid password by admin
+[2025-06-28T18:15:31.578Z] Successfully clicked login button by admin
+[2025-06-28T18:15:31.611Z] Successfully clicked on attendence option
+[2025-06-28T18:15:31.720Z] Verify the attendance option is clickable test passed
+[2025-06-28T18:15:32.110Z] Navigating to login page on dev environment
+[2025-06-28T18:15:32.622Z] Successfully entered valid email id by admin
+[2025-06-28T18:15:32.672Z] Successfully entered valid email id by admin
+[2025-06-28T18:15:32.858Z] Successfully entered valid password by admin
+[2025-06-28T18:15:32.907Z] Successfully clicked login button by admin
+[2025-06-28T18:15:32.937Z] Successfully entered valid password by admin
+[2025-06-28T18:15:33.039Z] Successfully clicked login button by admin
+[2025-06-28T18:15:33.329Z] Successfully clicked on notice option
+[2025-06-28T18:15:33.443Z] Verify the notice option is clickable test passed
+[2025-06-28T18:15:34.413Z] Successfully clicked on timetable option
+[2025-06-28T18:15:34.556Z] Verify the timetable option is clickable test passed
+[2025-06-28T18:15:34.619Z] Successfully clicked on subject option
+[2025-06-28T18:15:34.746Z] Successfully entered valid email id by admin
+[2025-06-28T18:15:34.761Z] Verify the subject option is clickable test passed
+[2025-06-28T18:15:34.957Z] Successfully entered valid password by admin
+[2025-06-28T18:15:35.019Z] Successfully clicked login button by admin
+[2025-06-28T18:15:35.550Z] Navigating to login page on dev environment
+[2025-06-28T18:15:36.113Z] Successfully entered valid email id by admin
+[2025-06-28T18:15:36.330Z] Successfully entered valid password by admin
+[2025-06-28T18:15:36.400Z] Successfully clicked login button by admin
+[2025-06-28T18:15:36.443Z] Successfully clicked on teacher option
+[2025-06-28T18:15:36.546Z] Verify the teacher option is clickable test passed
+[2025-06-28T18:15:37.355Z] Navigating to login page on dev environment
+[2025-06-28T18:15:37.538Z] Successfully clicked on Syllabus option
+[2025-06-28T18:15:37.634Z] Verify the syllabus option is clickable test passed
+[2025-06-28T18:15:37.965Z] Successfully entered valid email id by admin
+[2025-06-28T18:15:37.977Z] Navigating to login page on dev environment
+[2025-06-28T18:15:38.077Z] Successfully entered valid password by admin
+[2025-06-28T18:15:38.118Z] Successfully clicked login button by admin
+[2025-06-28T18:15:38.621Z] Successfully entered valid email id by admin
+[2025-06-28T18:15:38.717Z] Successfully entered valid password by admin
+[2025-06-28T18:15:38.760Z] Successfully clicked login button by admin
+[2025-06-28T18:15:39.403Z] Successfully clicked on notes option
+[2025-06-28T18:15:39.582Z] Verify the notes option is clickable test passed
+[2025-06-28T18:15:39.953Z] Navigating to login page on dev environment
+[2025-06-28T18:15:40.582Z] Successfully clicked on marks option
+[2025-06-28T18:15:40.710Z] Navigating to login page on dev environment
+[2025-06-28T18:15:40.824Z] Verify the marks option is clickable test passed
+[2025-06-28T18:15:41.253Z] Successfully entered valid email id by admin
+[2025-06-28T18:15:41.433Z] Successfully entered valid password by admin
+[2025-06-28T18:15:41.499Z] Successfully clicked login button by admin
+[2025-06-28T18:15:41.601Z] Navigating to login page on dev environment
+[2025-06-28T18:15:41.892Z] Successfully entered valid email id by admin
+[2025-06-28T18:15:42.061Z] Successfully entered valid password by admin
+[2025-06-28T18:15:42.256Z] Successfully clicked login button by admin
+[2025-06-28T18:15:42.904Z] Successfully entered valid email id by teacher
+[2025-06-28T18:15:43.007Z] Verify the login functionality for admin test passed
+[2025-06-28T18:15:43.037Z] Successfully entered valid password by teacher
+[2025-06-28T18:15:43.100Z] Successfully clicked login button by teacher
+[2025-06-28T18:15:43.415Z] Successfully clicked on buses option
+[2025-06-28T18:15:43.531Z] Verify the buses option is clickable test passed
+[2025-06-28T18:15:44.144Z] Navigating to login page on dev environment
+[2025-06-28T18:15:44.336Z] Verify the login functionality for teacher test passed
+[2025-06-28T18:15:44.724Z] Navigating to login page on dev environment
+[2025-06-28T18:15:45.181Z] Successfully entered valid email id by student
+[2025-06-28T18:15:45.338Z] Successfully entered valid password by student
+[2025-06-28T18:15:45.403Z] Successfully clicked login button by student
+[2025-06-28T18:15:45.568Z] Navigating to login page on dev environment
+[2025-06-28T18:15:45.871Z] Successfully clicked view button
+[2025-06-28T18:15:46.026Z] Password visibility toggle test passed
+[2025-06-28T18:15:46.567Z] Successfully entered valid email id by admin
+[2025-06-28T18:15:46.715Z] Successfully entered valid password by admin
+[2025-06-28T18:15:46.778Z] Successfully clicked login button by admin
+[2025-06-28T18:15:48.120Z] Successfully clicked on notice option
+[2025-06-28T18:15:48.278Z] Successfully entered notice title
+[2025-06-28T18:15:48.308Z] Successfully entered notice body
+[2025-06-28T18:15:48.337Z] Successfully uploaded the file for notice
+[2025-06-28T18:15:48.434Z] Successfully clicked on post button
