@@ -2,9 +2,13 @@
   "name": "mygoalsms",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": { "test:report": "npx playwright test --reporter=html && node send-report.js",
-    "test:env": "npx cross-env TEST_ENV=prod npx playwright test LoginPageTest.spec.js"
-},
+  "scripts": {
+    "test:ui": "npx playwright test --project=\"UI Tests\"",
+    "test:api": "npx playwright test --project=\"API Tests\"",
+    "test:send-report-to-chat": "node sendToChat.js",
+    "test:send-report-to-gmail": "node send-report.js",
+    "test:env": "npx cross-env TEST_ENV=prod npx playwright test"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -14,7 +18,6 @@
     "@types/node": "^24.0.4",
     "cross-env": "^7.0.3"
   },
-  
   "dependencies": {
     "axios": "^1.10.0",
     "mysql2": "^3.14.1",

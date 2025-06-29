@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig, devices } from '@playwright/test';
 
+
 /**
  * Read environment variables from file.
  * https://github.com/motdotla/dotenv
@@ -42,6 +43,13 @@ export default defineConfig({
       name: 'chromium',
       use: { ...devices['Desktop Chrome'] },
     },
+    {
+      name: 'API Tests',
+      testDir: './api-tests',
+    },{
+      name: 'UI Tests',
+      testDir: './tests',
+    }
 
     // {
     //   name: 'firefox',
